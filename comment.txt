@@ -1,0 +1,4 @@
+﻿ URL адрес:  http://www.fpmi.nstu.ru/ Комментарий к сайту:  Сайт факультета прикладной математики и информатики</br>
+ URL адрес:  https://docs.google.com/spreadsheets/d/1wK89-MRv01lM1bYhPSnK9ginFVzv29jAQ9ghT1sUhQo/edit#gid=0 Комментарий к сайту:  Успеваемость ПМИ-5Х Веб</br>
+ URL адрес: https://github.com/PiskunovNikita/Link-Storage/blob/master/README.md Комментарий к сайту:  Схема запуска сайта на гитхабе</br>
+ URL адрес: https://www.youtube.com/user/onlykotiki Комментарий к сайту:  Видео с милыми котиками</br>

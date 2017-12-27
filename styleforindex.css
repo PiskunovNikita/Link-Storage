@@ -1,0 +1,47 @@
+
+#allAfterPhoto {
+    margin-left: 270px;
+    
+}
+#Commentsplace {
+    margin-left: 270px;
+    
+}
+
+.header {
+  position: relative;
+  padding: 30px 15px;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  background-color: #00bfff;
+  background-size: 100%;
+  background-image: -webkit-linear-gradient(top, #000000 0%, #000000 100%);
+  background-image: linear-gradient(to bottom, #000000 0%, #00bfff 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#563d7c', endColorstr='#00bfff', GradientType=0);
+}
+.bs-header h1 {
+    margin-top: 0;
+    color: #00bfff;
+}
+
+.btn-send {
+    width: 160px;
+    padding: 5px 8px;
+    color: #fff;
+    background-color: #00bfff;
+    border-color: #00bfff;
+}
+
+.fieldsetinput{
+border-radius: 10px;
+width: 250px;
+padding: 5px 0px;
+font-size: 1.2em;
+color: #666;
+border: none;
+background-color: #fff;
+border-radius: 10px;
+}

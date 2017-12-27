@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+ <head>
+    
+    <link rel = "stylesheet" href = "styleforindex.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Link Storage</title>
+  <script src="LinkStorage.js"></script>
+ </head>
+ <body>
+ 
+  
+        <div class="header"><h1>Link storage</h1></div>
+    
+ 
+<br>
+<br>
+
+
+
+  <form action="/addcomment" method="POST">
+    <label for="who"> Введите URL адрес </label>
+    <br>
+    <div class="fieldsetinput">
+    <input type="text" name="name" value=" "size="100" />
+    <br>
+    </div>
+    <label for="comment"> Ваш комментарий к сайту </label>
+    <br>
+    <div class="fieldsetinput">
+    <input type="text" name="comment" value=" " size="100" />
+    <br>
+    </div>
+    <input class="btn-send" type="submit" value="Отправить"/>
+  </form>
+
+  
+  
+  <p> Недавно сохраненные ссылки:
+  <div id="comments">
+    <script type="text/javascript">
+    var div = document.getElementById("comments");
+    div.t
+    var text = div.textContent;
+    </script>
+  </div>
+
+ </body>
+</html>
